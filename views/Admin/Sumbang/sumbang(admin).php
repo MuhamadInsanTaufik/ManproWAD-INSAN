@@ -358,46 +358,48 @@
               </div><!-- End Sales Card -->
             <!-- Revenue Card -->
           </div>
-          <div class="col">
-            <p class="thx">TERIMA KASIH TELAH <p class="thx menyumbang">MENYUMBANG!</p></p>
-            <div class="row thx2">
-              <div class="thx-container">
-                <span class="thx-text">Sumbangan mu sebelumnya</span>
-                <div class="row align-items-start thx2-container">
-                  <div class="col thx">
-                    <div class="card thx">
-                      <div class="thx-card-body">
-                          <img src="..\..\..\assets\img\Dont make me think.png">
-                          <p class="card-title-thx1">Don’t Make Me think</p>
-                          <p class="card-title-thx2">Steve Krug, 2000</p>
-                          <p class="card-title-thx3">14k Readers</p>
-                      </div>
-                  </div>
-                  </div>
-                  <div class="col thx">
-                    <div class="card thx">
-                      <div class="thx-card-body">
+          <div class="col thx-menyumbang">
+            <div class="container-thx">
+              <p class="thx">TERIMA KASIH TELAH <p class="thx menyumbang">MENYUMBANG!</p></p>
+              <div class="row thx2">
+                <div class="thx-container">
+                  <span class="thx-text">Sumbangan mu sebelumnya</span>
+                  <div class="row align-items-start thx2-container">
+                    <div class="col thx">
+                      <div class="card thx">
+                        <div class="thx-card-body">
+                            <img src="..\..\..\assets\img\Dont make me think.png">
+                            <p class="card-title-thx1">Don’t Make Me think</p>
+                            <p class="card-title-thx2">Steve Krug, 2000</p>
+                            <p class="card-title-thx3">14k Readers</p>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col thx">
+                      <div class="card thx">
+                        <div class="thx-card-body">
                           <img src="..\..\..\assets\img\The design of everyday things.png" width="123" height="170">
                           <p class="card-title-thx1">The Design of Every..</p>
                           <p class="card-title-thx2">Don Norman, 1988</p>
                           <p class="card-title-thx3">14k Readers</p>
-                      </div>
-                  </div>
-                  </div>
-                  <div class="col thx">
-                    <div class="card thx">
-                      <div class="thx-card-body">
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col thx">
+                      <div class="card thx">
+                        <div class="thx-card-body">
                           <img src="..\..\..\assets\img\Sprint.png" width="123" height="170">
                           <p class="card-title-thx1">Sprint : How to solve...</p>
                           <p class="card-title-thx2">Jake Knapp, 2000</p>
                           <p class="card-title-thx3">14k Readers</p>
+                        </div>
                       </div>
-                  </div>
+                    </div>
                   </div>
                 </div>
               </div>
+            </div>
           </div>
-          </div> 
           <!-- Reveneu card end -->
         </div>
     </section>

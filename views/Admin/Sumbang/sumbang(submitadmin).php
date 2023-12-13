@@ -313,7 +313,7 @@
               </div><!-- End Sales Card -->
             <!-- Revenue Card -->
           </div>
-          <div class="col">
+          <div class="col thx-menyumbang">
             <p class="thx">TERIMA KASIH TELAH <p class="thx menyumbang">MENYUMBANG!</p></p>
             <div class="row thx2">
               <div class="thx-container">

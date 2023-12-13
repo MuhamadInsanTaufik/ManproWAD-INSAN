@@ -395,13 +395,18 @@ h5.card-title {
   line-height: 128.523%; /* 64.261px */
 }
 
+.col.thx-menyumbang {
+  margin-left: 40px;
+}
+
 .thx.menyumbang {
   color: #F4683C;
 }
-/* .col.test { 
-  padding-left: 100px;
-  margin-left: 300px;
-} */
+
+.col { 
+  max-width: 600px;
+  max-height: 530px;
+}
 
 .submit-text {
   font-weight: bold;
